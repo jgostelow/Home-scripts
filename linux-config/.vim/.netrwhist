@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/users/jon.g/SVN/apps-rumba/branches/AtMail1-deployment/lib/Customer'
+let g:netrw_dirhist_2='/home/users/niall/svn/libiinet-perl/trunk/lib/iiNet'
+let g:netrw_dirhist_3='/home/users/jon.g/SVN/apps-rumba/branches/release-1.102/lib/Action/Record'
+let g:netrw_dirhist_4='/home/users/jon.g/SVN/apps-rumba/branches/release-1.102/etc/action/application'
+let g:netrw_dirhist_5='/home/users/jon.g/SVN/apps-rumba/branches/release-1.102/lib/Plan'

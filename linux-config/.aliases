@@ -1,0 +1,7 @@
+alias pkg-build='dpkg-buildpackage -rfakeroot;mv ../*.deb ~/build/;debuild clean'
+alias pkg-clean='debuild clean'
+
+alias compile="find . \( -name \*.pl -o -name \*.pm -o -name \*.t \) -exec perl -c {} \; 2>&1 | grep -vE 'OK$'"
+
+alias rm='rm -i'
+alias cp='cp -i'
